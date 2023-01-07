@@ -76,6 +76,7 @@ input, textarea {
 .btn.btn-outline {
   background: transparent;
   border-radius: 0;
+  border: 1px solid #000;
   color: #000;
   padding: 7px 30px;
 }

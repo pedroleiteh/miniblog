@@ -1,9 +1,12 @@
 .post_detail {
   margin-bottom: 2em;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  border-radius: 0.5rem;
 }
 
 .post_detail img {
-  max-width: 600px;
+  max-width: 500px;
 }
 
 .post_detail h2 {
