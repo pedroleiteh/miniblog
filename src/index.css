@@ -90,8 +90,13 @@ input, textarea {
   background: #000;
 }
 
-.btn.btn-danger:hover {
+.btn.btn-danger {
   background: #DC3545;
+  color: #fff;
+}
+
+.btn.btn-danger:hover {
+  background: #721C24;
 }
 
 button[disabled] {
